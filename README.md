@@ -1,5 +1,5 @@
 # HR_Excel_Dashboard
 I created an interactive Excel HR dashboard with pivot tables and charts to analyse attrition rates, calculated attrition rates using advanced Excel functions, and summarised the data with pivot tables. Additionally, I enhanced the dashboard's interactivity with slicers and visualised data across various components.
+<BR>
 
-
-![Dashboard](https://github.com/Gautamvats/Excel_Projects/assets/137445534/47b98b22-7d26-4bc2-9c52-9a4845ef5b56)
+![Screenshot (274)](https://github.com/Gautamvats/HR_Excel_Projects/assets/137445534/ac02ff5a-b7cc-4892-87ec-ba7100dad6cc)
